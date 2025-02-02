@@ -1,4 +1,4 @@
-# Twitter Hate Speech Detection Using Naive Bayes
+# Twitter Sentiment Analysis
 
 ## Overview
 This project implements a hate speech detection model using Natural Language Processing (NLP) techniques and a Naive Bayes classifier. The dataset consists of labeled tweets, and the goal is to classify whether a tweet contains hate speech or not.
